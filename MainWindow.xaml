@@ -1,0 +1,41 @@
+﻿<Window x:Name="AnalogDesign" x:Class="AnalogDesign.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnalogDesign"
+        mc:Ignorable="d"
+        Title="AnalogDesign" Height="450" Width="597" MaxWidth="597" MaxHeight="450">
+    <Grid HorizontalAlignment="Left" Width="772" Margin="0,0,-183,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.ColumnSpan="2" Margin="2,171,489,30" Source="VoltageFollower.png" Stretch="Fill"/>
+
+        <Image Margin="10,0,473,263" Source="SmallSignalModelMainWindow.png" Stretch="Fill" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="3,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="253" Height="127" Grid.Column="1"><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <Button x:Name="SmallSignalModel" Content="Small Signal Model" HorizontalAlignment="Left" Margin="193,136,0,0" VerticalAlignment="Top" Width="110" Click="SmallSignalModel_Click" Height="20" Grid.Column="1"/>
+        <Label Content="Reference: Analysis and Design of Analog Integrated Circuits ;  Reference: CMOS Analog Circuit Design, Allen Philip" HorizontalAlignment="Left" Margin="70,389,0,0" VerticalAlignment="Top" Height="30" Width="573" FontSize="10" Grid.Column="1"/>
+        <Image HorizontalAlignment="Left" Height="156" Margin="2,10,0,0" VerticalAlignment="Top" Width="226" Grid.Column="1">
+            <Image.OpacityMask>
+                <ImageBrush/>
+            </Image.OpacityMask>
+        </Image>
+        <Button x:Name="DifferentialAmplifiers" Content="Analog Circuits" HorizontalAlignment="Left" Margin="193,364,0,0" VerticalAlignment="Top" Width="119" Click="DifferentialAmplifiers_Click" Height="20" Grid.Column="1"/>
+        <Image Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="100" Margin="47,210,0,0" VerticalAlignment="Top" Width="100">
+            <Image.OpacityMask>
+                <ImageBrush/>
+            </Image.OpacityMask>
+        </Image>
+        <Button x:Name="CMOS_Amplifiers" Grid.ColumnSpan="2" Content="CMOS Amplifiers" HorizontalAlignment="Left" Margin="386,136,0,0" VerticalAlignment="Top" Width="103" Click="CMOS_Amplifiers_Click" RenderTransformOrigin="0.155,1"/>
+        <Image Margin="341,0,255,287" Source="currentamplifier.png" Stretch="Fill" Grid.ColumnSpan="2"/>
+        <Label Grid.ColumnSpan="2" Content="Click for details" HorizontalAlignment="Left" Margin="199,152,0,0" VerticalAlignment="Top" Height="24" Width="100" FontSize="8"/>
+        <Label Grid.ColumnSpan="2" Content="Click for details" HorizontalAlignment="Left" Margin="389,157,0,0" VerticalAlignment="Top" Height="24" Width="100" FontSize="8"/>
+        <Label Grid.ColumnSpan="2" Content="Click for details" HorizontalAlignment="Left" Margin="243,340,0,0" VerticalAlignment="Top" Height="19" Width="69" FontSize="8"/>
+        <Button x:Name="Operational_Amplifers" Grid.ColumnSpan="2" Content="Operational Amplifiers" HorizontalAlignment="Left" Margin="386,364,0,0" VerticalAlignment="Top" Width="131" Click="Operational_Amplifers_Click"/>
+        <Label Grid.ColumnSpan="2" Content="Click for details" HorizontalAlignment="Left" Margin="420,340,0,0" VerticalAlignment="Top" Height="19" Width="69" FontSize="8"/>
+        <Image Grid.ColumnSpan="2" Margin="301,186,204,84" Source="Image4.png" Stretch="Fill"/>
+
+    </Grid>
+</Window>
