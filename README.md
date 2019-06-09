@@ -8,6 +8,6 @@ https://github.com/alpaddesai/AnalogDesign/releases
 ![AnalogDesign](CMOSImage.png)
 ![AnalogDesign](AnalogCircuitsImage.png)
 ![AnalogDesign](OperationalAmplifiersImage.png)
-![AnalogDesign](Digital Timing Characteristics.png)
+![AnalogDesign](DigitalTimingCharacteristics.png)
 
 
