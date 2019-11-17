@@ -13,7 +13,7 @@ Company confidential information is not displayed. All images are either custom 
 ![AnalogDesign](OperationalAmplifiersImage.png)
 ![AnalogDesign](DigitalTimingCharacteristics.png)
 
-##Design layout
+## Design layout
 ![AnalogDesign](VLSILayout.png)
 ![AnalogDesign](Output.png)
 
