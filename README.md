@@ -14,7 +14,7 @@ Company confidential information is not displayed. All images are either custom 
 ![AnalogDesign](DigitalTimingCharacteristics.png)
 
 ## Schematic Design
-![AnalogDesign](Virtuoso Schematic Editor vIC6.1.8 (iLS))
+![AnalogDesign](SchematicDesign.png)
 
 ## Design layout
 ![AnalogDesign](VLSILayout.png)
