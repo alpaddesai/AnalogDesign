@@ -13,6 +13,9 @@ Company confidential information is not displayed. All images are either custom 
 ![AnalogDesign](OperationalAmplifiersImage.png)
 ![AnalogDesign](DigitalTimingCharacteristics.png)
 
+## Schematic Design
+![AnalogDesign](Virtuoso Schematic Editor vIC6.1.8 (iLS))
+
 ## Design layout
 ![AnalogDesign](VLSILayout.png)
 ![AnalogDesign](Output.png)
