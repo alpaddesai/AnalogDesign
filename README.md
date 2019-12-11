@@ -16,6 +16,9 @@ Company confidential information is not displayed. All images are either custom 
 ## Schematic Design
 ![AnalogDesign](SchematicDesign.png)
 
+## CMOS Analog Design Certification
+![CMOS Analog Design](CMOSAnalogDesign.jpg)
+
 ## Design layout
 ![AnalogDesign](VLSILayout.png)
 ![AnalogDesign](Output.png)
