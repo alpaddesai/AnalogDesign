@@ -23,3 +23,5 @@ Company confidential information is not displayed. All images are either custom 
 ![AnalogDesign](VLSILayout.png)
 ![AnalogDesign](Output.png)
 
+## VLSI Design Certification
+![VLSI](VLSI_Design_Certification.jpg)
