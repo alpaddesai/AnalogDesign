@@ -19,4 +19,6 @@ Company confidential information is not displayed. All images are either custom 
 ## CMOS Analog Design Certification
 ![CMOS Analog Design](CMOSAnalogDesign.jpg)
 
+## Inverting Amplifier 
+![InvertingAmplifier](inverting_amplifier.png)
 
