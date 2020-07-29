@@ -10,9 +10,9 @@ Company confidential information is not displayed. All images are either custom 
 
 ![AnalogDesign](MainWindowImage.png)
 ![AnalogDesign](SmallSignalModelImage.png)
-### OrCAD PSpice
-
 ![AnalogDesign](CMOSImage.png)
+
+### OrCAD PSpice
 ![AnalogDesign](AnalogCircuitsImage.png)
 ![AnalogDesign](OperationalAmplifiersImage.png)
 ![AnalogDesign](DigitalTimingCharacteristics.png)
