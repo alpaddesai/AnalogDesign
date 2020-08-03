@@ -3,7 +3,7 @@
 The project displays technical knowledge on the described topics. Please click on the following link to download the executable:
 https://github.com/alpaddesai/AnalogDesign/releases
 
-Advanced knowledge , please reference: https://github.com/alpaddesai/Microwave-Engineering
+Advanced knowledge please reference: https://github.com/alpaddesai/Microwave-Engineering  and https://github.com/alpaddesai/Optoelectronics
 
 Company confidential information is not displayed. All images are either custom by Alpa D Desai or a reference name is included.  Most of the images are custom. 
 
