@@ -22,4 +22,4 @@ Company confidential information is not displayed. All images are either custom 
 
 
 ## Analog integrated circuit design
-Advanced knowledge please reference: https://github.com/alpaddesai/Microwave-Engineering , https://github.com/alpaddesai/MixedSignal_SystemOnChip and https://github.com/alpaddesai/Optoelectronics
+Advanced knowledge please reference: https://github.com/alpaddesai/Microwave-Engineering , https://github.com/alpaddesai/ICPackageDesign, https://github.com/alpaddesai/MixedSignal_SystemOnChip and https://github.com/alpaddesai/Optoelectronics
