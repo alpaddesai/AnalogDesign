@@ -23,7 +23,8 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Critical Review Analog Integrated Circuit Design 
 ![image](image1.png)
-
+![image](imageII.png)
+![image](imageIII.png)
 
 ## Analog integrated circuit design
 Advanced knowledge please reference: https://github.com/alpaddesai/Microwave-Engineering , https://github.com/alpaddesai/ICPackageDesign and https://github.com/alpaddesai/Optoelectronics
