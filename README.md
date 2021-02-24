@@ -28,4 +28,4 @@ Company confidential information is not displayed. All images are either custom 
 ## Interest
 ![image](image.png)
 
-Advanced knowledge please reference: https://github.com/alpaddesai/Microwave-Engineering , https://github.com/alpaddesai/ICPackageDesign and https://github.com/alpaddesai/Optoelectronics and  https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
+Advanced knowledge please reference: https://github.com/alpaddesai/Microwave-Engineering , https://github.com/alpaddesai/ICPackageDesig, https://github.com/alpaddesai/Optoelectronics and  https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
