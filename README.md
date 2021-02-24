@@ -22,6 +22,7 @@ Company confidential information is not displayed. All images are either custom 
 
 
 ## Interest
+![image](image_1.png)
 ![image](image1.jpg)
 ![image](image2.jpg)
 
