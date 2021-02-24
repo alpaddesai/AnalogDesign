@@ -20,10 +20,6 @@ Company confidential information is not displayed. All images are either custom 
 ## CMOS Analog Design Certification
 ![CMOS Analog Design](CMOSAnalogDesign.jpg)
 
-## Critical Review Analog Integrated Circuit Design 
-![image](image1.png)
-![image](imageII.png)
-![image](ImageIII.png)
 
 ## Interest
 ![image](image1.jpg)
