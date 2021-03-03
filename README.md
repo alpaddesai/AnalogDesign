@@ -13,6 +13,7 @@ Company confidential information is not displayed. All images are either custom 
 ![AnalogDesign](AnalogCircuitsImage.png)
 ![AnalogDesign](OperationalAmplifiersImage.png)
 ![AnalogDesign](DigitalTimingCharacteristics.png)
+![AnalogDesign](image16.png)
 
 ## Inverting Amplifier in Virtuoso
 ![InvertingAmplifier](inverting_amplifier.png)
