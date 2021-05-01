@@ -16,7 +16,7 @@ Company confidential information is not displayed. All images are either custom 
 ![AnalogDesign](image16.png)
 
 ### Analog IC Design
-![image](AnalogDesignI.jpg)
+![image](AnalogICDesignI.jpg)
 ![image](AnalogICDesignII.jpg)
 
 ## Inverting Amplifier in Virtuoso
