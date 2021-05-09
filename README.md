@@ -18,6 +18,7 @@ Company confidential information is not displayed. All images are either custom 
 ### Analog IC Design
 ![image](AnalogICDesignI.jpg)
 ![image](AnalogICDesign_amplifier.jpg)
+![image](optocoupler.png)
 
 ## Inverting Amplifier in Virtuoso
 ![InvertingAmplifier](inverting_amplifier.png)
