@@ -26,6 +26,8 @@ Company confidential information is not displayed. All images are either custom 
 ## CMOS Analog Design Certification
 ![CMOS Analog Design](CMOSAnalogDesign.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
 
 ## Interest
 ![image](image_1.png)
