@@ -23,12 +23,13 @@ Company confidential information is not displayed. All images are either custom 
 ## Inverting Amplifier in Virtuoso
 ![InvertingAmplifier](inverting_amplifier.png)
 
-## CMOS Analog Design Certification
-![CMOS Analog Design](CMOSAnalogDesign.jpg)
-
 ## Differential Amplifier
 ![image](DifferentialOpAmp.jpg)
 ![image](Diff_Output.jpg)
+
+## CMOS Analog Design Certification
+![CMOS Analog Design](CMOSAnalogDesign.jpg)
+
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
