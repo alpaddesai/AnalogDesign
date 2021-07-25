@@ -26,6 +26,10 @@ Company confidential information is not displayed. All images are either custom 
 ## CMOS Analog Design Certification
 ![CMOS Analog Design](CMOSAnalogDesign.jpg)
 
+## Differential Amplifier
+![image](DifferentialOpAmp.jpg)
+![image]()
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
