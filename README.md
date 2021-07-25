@@ -28,7 +28,7 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Differential Amplifier
 ![image](DifferentialOpAmp.jpg)
-![image]()
+![image](Diff_Output.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
