@@ -24,7 +24,6 @@ Company confidential information is not displayed. All images are either custom 
 ![InvertingAmplifier](inverting_amplifier.png)
 
 ## Differential Amplifier
-![image](DifferentialOpAmp.jpg)
 ![image](DiffAmp.jpg)
 
 ## CMOS Analog Design Certification
