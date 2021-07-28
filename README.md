@@ -25,7 +25,7 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Differential Amplifier
 ![image](DifferentialOpAmp.jpg)
-![image](Diff_Output.jpg)
+![image](DiffAmp.jpg)
 
 ## CMOS Analog Design Certification
 ![CMOS Analog Design](CMOSAnalogDesign.jpg)
