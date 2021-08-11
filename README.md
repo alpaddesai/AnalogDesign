@@ -21,7 +21,7 @@ Company confidential information is not displayed. All images are either custom 
 ![image](Optocoupler1.jpg)
 
 ## Low Power Dissipation ADC
-![image](LowPowerDissipationADC.jpg)
+![image](LowPowerDissipationADCDesign.jpg)
 
 ## Inverting Amplifier in Virtuoso
 ![InvertingAmplifier](inverting_amplifier.png)
