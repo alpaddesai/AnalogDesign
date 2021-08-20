@@ -28,7 +28,10 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Differential Amplifier
 ![image](DifferentialAmplifier.jpg)
+
+## Diff Amplifier/Source Follower
 ![image](TextbookProblem.jpg)
+
 ## Fully differential amplifier
 ![image](DiffAmp.jpg)
 
