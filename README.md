@@ -46,4 +46,4 @@ Company confidential information is not displayed. All images are either custom 
 ![image](image1.jpg)
 ![image](image2.jpg)
 
-Advanced knowledge please reference: https://github.com/alpaddesai/RFMicroelectronics and https://github.com/alpaddesai/MSECE_ArchitecturalDesigns
+Advanced knowledge please reference: https://github.com/alpaddesai/RFMicroelectronics and https://github.com/alpaddesai/AnalogDesign
