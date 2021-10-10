@@ -15,7 +15,7 @@ Company confidential information is not displayed. All images are either custom 
 ![AnalogDesign](DigitalTimingCharacteristics.png)
 ![AnalogDesign](image16.png)
 
-### Analog IC Design
+### Analog IC Design - PSpice
 ![image](AnalogICDesignI.jpg)
 ![image](AnalogICDesign_amplifier.jpg)
 ![image](Optocoupler1.jpg)
