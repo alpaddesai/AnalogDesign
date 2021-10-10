@@ -23,10 +23,6 @@ Company confidential information is not displayed. All images are either custom 
 ## Low Power Dissipation 
 ![image](LowPowerDissipationADCDesign.jpg)
 
-## Inverting Amplifier in Virtuoso
-![InvertingAmplifier](inverting_amplifier.png)
-
-
 ## Diff Amplifier/Source Follower
 ![image](TextbookProblem.jpg)
 
