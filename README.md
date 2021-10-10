@@ -28,6 +28,7 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Fully differential amplifier
 ![image](DiffAmp.jpg)
+### Fully diff amp phase margin
 ![image](DifferentialAmplifier.png)
 
 ## CMOS Analog Design Certification
