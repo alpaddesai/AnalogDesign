@@ -26,8 +26,6 @@ Company confidential information is not displayed. All images are either custom 
 ## Inverting Amplifier in Virtuoso
 ![InvertingAmplifier](inverting_amplifier.png)
 
-## Differential Amplifier
-![image](DifferentialAmplifier.jpg)
 
 ## Diff Amplifier/Source Follower
 ![image](TextbookProblem.jpg)
