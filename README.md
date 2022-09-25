@@ -37,4 +37,6 @@ Company confidential information is not displayed. All images are either custom 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge please reference: https://github.com/alpaddesai/RFMicroelectronics and https://github.com/alpaddesai/AnalogDesign
