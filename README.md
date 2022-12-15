@@ -39,4 +39,4 @@ Company confidential information is not displayed. All images are either custom 
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge please reference: https://github.com/alpaddesai/RFMicroelectronics 
+Advanced knowledge please reference: https://github.com/alpaddesai/DesignEngineering
